@@ -1,0 +1,5 @@
+<resources>
+    <style name="Widget.AdvancedAndroid_MyGardenStarter_Code.AppWidget.Container" parent="android:Widget">
+        <item name="android:clipToOutline">true</item>
+    </style>
+</resources>
