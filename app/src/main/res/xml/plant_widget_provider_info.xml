@@ -8,7 +8,4 @@
     android:description="@string/app_widget_description"
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen"/>
-<!--    android:previewLayout="@layout/plant_widget_provider"-->
-<!--    android:targetCellHeight="1"-->
-<!--       android:targetCellWidth="1"-->
-<!--    android:initialKeyguardLayout="@layout/plant_widget_provider"-->
+

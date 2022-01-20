@@ -27,7 +27,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:radius="50dp"
-        app:value="100" />
+        app:value="100"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/last_watered_number"
